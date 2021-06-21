@@ -1,0 +1,64 @@
+h1{
+    margin-left:20px;
+    margin-top:20px;
+    font-family: 'Press Start 2P', cursive;
+    color: crimson;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    color: darkblue;
+    font-weight: bold;
+    margin-left: 20px;
+}
+blockquote{
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #0000009a;
+}
+h4{
+    margin-left:45px; 
+    color: crimson;
+}
+
+
+.jumbotron {
+    background-image: url("../img/pano.jpg");
+    background-size: cover;
+  }
+body{
+    font-family: 'Antonio', sans-serif;
+}
+.navbar-custom{
+    background-color: white;
+}
+.navbar-custom .navbar-brand,
+        .navbar-custom .navbar-text {
+            color: crimson;
+        }
+        .navbar-nav .nav-link{
+    color: crimson;    
+}
+p{
+    margin-left:20px;
+}
+
+
+.w-100 {
+    width: 98%;
+    height: 75vh;
+  }
+  .card{
+      align-items: center;
+  }
+.card-img-top{
+    width: 40%;
+    height: 40%;
+}
+.card-img-top1{
+    width: 30%;
+    height: 30%;
+}
+.card-img-top2{
+    width: 20%;
+    height: 20%;
+}
